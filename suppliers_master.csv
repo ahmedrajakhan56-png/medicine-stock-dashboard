@@ -1,0 +1,6 @@
+supplier_id,supplier_name,contact_person,phone,email,city,gst_number,payment_terms,lead_time_days,is_active
+2001,MediDistributors Ltd.,Ramesh Kumar,9876543210,ramesh@medidistributors.com,Mumbai,27ABCDE1234F1Z5,30 days,3,1
+2002,PharmaWholesale Co.,Priya Sharma,9876543211,priya@pharmawholesale.com,Delhi,07FGHIJ5678K2L6,45 days,5,1
+2003,HealthCare Supplies,Suresh Patel,9876543212,suresh@healthcaresupplies.com,Ahmedabad,24KLMNO9012P3M7,15 days,2,1
+2004,Generic Medicines Corp,Amit Singh,9876543213,amit@genericmedicorp.com,Lucknow,09PQRST3456R4S8,60 days,4,1
+2005,Emergency Meds Pvt Ltd,Neha Gupta,9876543214,neha@emergencymeds.com,Bangalore,29UVWXY7890T5U9,7 days,1,1

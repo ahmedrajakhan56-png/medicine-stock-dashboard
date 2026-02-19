@@ -1,0 +1,31 @@
+medicine_id,medicine_name,category,therapeutic_class,manufacturer,package_size,unit_type,is_emergency,is_refrigerated,created_date,is_active
+1000,Paracetamol 500mg,Tablet,Hormone,Cipla,10 units,Tablet,1,0,01-01-2024,1
+1001,Paracetamol 650mg,Tablet,Antihypertensive,Abbott,15 units,Tablet,0,0,01-01-2024,1
+1002,Amoxicillin 250mg,Tablet,NSAID,Cipla,10 units,Tablet,0,0,01-01-2024,1
+1003,Amoxicillin 500mg,Tablet,Antimalarial,Cipla,10 units,Tablet,0,0,01-01-2024,1
+1004,Azithromycin 500mg,Tablet,Antibiotic,Sun Pharma,3 units,Tablet,1,0,01-01-2024,1
+1005,Cetirizine 10mg,Tablet,Antidiabetic,Glenmark,10 units,Tablet,0,0,01-01-2024,1
+1006,Omeprazole 20mg,Tablet,Antimalarial,Abbott,15 units,Tablet,0,0,01-01-2024,1
+1007,Metformin 500mg,Tablet,NSAID,Glenmark,10 units,Tablet,0,0,01-01-2024,1
+1008,Metformin 1000mg,Tablet,Antifungal,Torrent,10 units,Tablet,0,0,01-01-2024,1
+1009,Amlodipine 5mg,Tablet,Antibiotic,Dr Reddy's,15 units,Tablet,0,0,01-01-2024,1
+1010,Atorvastatin 10mg,Tablet,Antipyretic,Pfizer,10 units,Tablet,1,0,01-01-2024,1
+1011,Atorvastatin 20mg,Tablet,Antipyretic,Cipla,10 units,Tablet,1,0,01-01-2024,1
+1012,Cough Syrup,Syrup,Analgesic,Novartis,100 ml,Syrup,0,0,01-01-2024,1
+1013,Antacid,Syrup,Vitamin Supplement,Pfizer,200 ml,Syrup,0,0,01-01-2024,1
+1014,Paracetamol Syrup,Syrup,NSAID,Lupin,60 ml,Syrup,0,0,01-01-2024,1
+1015,Ibuprofen Syrup,Syrup,PPI,Cipla,100 ml,Syrup,0,0,01-01-2024,1
+1016,Cetirizine Syrup,Syrup,Hormone,Torrent,60 ml,Syrup,0,0,01-01-2024,1
+1017,Insulin Rapid,Injection,Antipyretic,Torrent,10 ml vial,Injection,1,1,01-01-2024,1
+1018,Insulin Long-acting,Injection,Hormone,Abbott,10 ml vial,Injection,0,0,01-01-2024,1
+1019,Pain Killer Injection,Injection,Antidiabetic,Cipla,2 ml vial,Injection,0,1,01-01-2024,1
+1020,Antibiotic Injection,Injection,Antipyretic,Dr Reddy's,1 ml vial,Injection,0,1,01-01-2024,1
+1021,Vitamin B12 Injection,Injection,Antihypertensive,Mankind,2 ml vial,Injection,0,0,01-01-2024,1
+1022,Omeprazole Capsule 20mg,Capsule,Vitamin Supplement,Alkem,15 units,Capsule,1,0,01-01-2024,1
+1023,Cephalexin 500mg,Capsule,NSAID,Abbott,10 units,Capsule,1,0,01-01-2024,1
+1024,Doxycycline 100mg,Capsule,PPI,Pfizer,10 units,Capsule,0,0,01-01-2024,1
+1025,Amoxicillin Capsule 500mg,Capsule,Hormone,Mankind,15 units,Capsule,0,0,01-01-2024,1
+1026,Antifungal Cream,Cream,Hormone,Novartis,30 gm,Cream,0,0,01-01-2024,1
+1027,Antibiotic Cream,Cream,Antibiotic,Abbott,20 gm,Cream,0,0,01-01-2024,1
+1028,Pain Relief Gel,Cream,Antipyretic,Zydus,50 gm,Cream,0,0,01-01-2024,1
+1029,Moisturizing Cream,Cream,Antidiabetic,Torrent,100 gm,Cream,0,0,01-01-2024,1
